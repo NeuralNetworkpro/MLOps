@@ -1,0 +1,4 @@
+[core]
+    remote = mydvcrepo
+['remote "mydvcrepo"']
+    url = /Users/jyoti/Downloads/mlops
